@@ -1,0 +1,2 @@
+html, body, #root { height: 100%; margin: 0; background: #1a201c; }
+* { -webkit-tap-highlight-color: transparent; box-sizing: border-box; }
